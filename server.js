@@ -37,6 +37,7 @@ app.use("",reportPatient);
 app.use("", scheduleDoctor);
 app.use("", pendding);
 app.use("", docprf);
+app.use("",appoint);
 // app.use("/api/profile", patientupdate)
 
 
