@@ -1,0 +1,54 @@
+[
+    {
+        "firstName" : "Abdullah",
+        "lastName": "Oqiel",
+        "email":"abdullahahmad@gmail.com",
+        "password":" ",
+        "phoneNumber":"0791565572",
+        "profileImage":"https://bit.ly/3hxXixM",
+        "clinicLocation":"Amman-Na'ur",
+        "workingFrom":"9:00 AM",
+        "workingTo":"6:00 PM",
+        "certifcate":" ",
+        "notes":"2:00 - 4:00 Pm Lunch break"
+    },
+    {
+        "firstName" : "Raad",
+        "lastName": "Oqiel",
+        "email":"raadahmad@gmail.com",
+        "password":" ",
+        "phoneNumber":"0791564472",
+        "profileImage":"https://bit.ly/3hxXixM",
+        "clinicLocation":"Amman-Na'ur",
+        "workingFrom":"9:00 AM",
+        "workingTo":"6:00 PM",
+        "certifcate":" ",
+        "notes":"2:00 - 4:00 Pm Lunch break"
+    },
+    {
+        "firstName" : "Ahamad",
+        "lastName": "Hussein",
+        "email":"ahmadhussein@gmail.com",
+        "password":" ",
+        "phoneNumber":"0791574472",
+        "profileImage":"https://bit.ly/3hxXixM",
+        "clinicLocation":"Aqaba-Fifth Area",
+        "workingFrom":"9:00 AM",
+        "workingTo":"6:00 PM",
+        "certifcate":" ",
+        "notes":"2:00 - 4:00 Pm Lunch break"
+    },
+    {
+        "firstName" : "Mohammad",
+        "lastName": "Ajarmeh",
+        "email":"mohammadajarmeh@gmail.com",
+        "password":" ",
+        "phoneNumber":"0791564472",
+        "profileImage":"https://bit.ly/3hxXixM",
+        "clinicLocation":"Amman-Jandweel",
+        "workingFrom":"9:00 AM",
+        "workingTo":"6:00 PM",
+        "certifcate":" ",
+        "notes":"2:00 - 4:00 Pm Lunch break"
+    }
+]
